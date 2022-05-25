@@ -13,7 +13,7 @@
     <title>Dashboard</title>
 
     <!-- Fontfaces CSS-->
-    <link href="<?php echo base_url(); ?>assets/css/font-face.css" rel="stylesheet" media="all">
+    <link href="https://storage.googleapis.com/ember-personal/assets/css/font-face.css" rel="stylesheet" media="all">
     <link href="<?php echo base_url(); ?>assets/vendor/font-awesome-4.7/css/font-awesome.min.css" rel="stylesheet" media="all">
     <link href="<?php echo base_url(); ?>assets/vendor/font-awesome-5/css/fontawesome-all.min.css" rel="stylesheet" media="all">
     <link href="<?php echo base_url(); ?>assets/vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
@@ -31,7 +31,7 @@
     <link href="<?php echo base_url(); ?>assets/vendor/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" media="all">
 
     <!-- Main CSS-->
-    <link href="<?php echo base_url(); ?>assets/css/theme.css" rel="stylesheet" media="all">
+    <link href="https://storage.googleapis.com/ember-personal/assets/css/theme.css" rel="stylesheet" media="all">
 
 </head>
 
@@ -43,7 +43,7 @@
                 <div class="container-fluid">
                     <div class="header-mobile-inner">
                         <a class="logo" href="index.html">
-                            <img src="<?php echo base_url(); ?>assets/images/icon/logo.png" alt="CoolAdmin" />
+                            <img src="https://storage.googleapis.com/ember-personal/assets/images/icon/logo.png" alt="CoolAdmin" />
                         </a>
                         <button class="hamburger hamburger--slider" type="button">
                             <span class="hamburger-box">
@@ -75,7 +75,7 @@
         <aside class="menu-sidebar d-none d-lg-block">
             <div class="logo">
                 <a href="#">
-                    <img src="<?php echo base_url(); ?>assets/images/icon/logo.png" alt="Cool Admin" />
+                    <img src="https://storage.googleapis.com/ember-personal/assets/images/icon/logo.png" alt="Cool Admin" />
                 </a>
             </div>
             <div class="menu-sidebar__content js-scrollbar1">
@@ -249,7 +249,7 @@
     </script>
 
     <!-- Main JS-->
-    <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
+    <script src="https://storage.googleapis.com/ember-personal/assets/js/main.js"></script>
 
 </body>
 
