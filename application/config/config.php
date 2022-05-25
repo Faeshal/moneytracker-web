@@ -24,8 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-// $config['base_url'] = 'base_url_frontend_Anda';
-$config['base_url'] = 'http://localhost/moneytrack';
+$config['base_url'] = 'https://submission-mgce-faeshal.et.r.appspot.com';
 
 /*
 |--------------------------------------------------------------------------
