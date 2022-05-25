@@ -1,5 +1,5 @@
-runtime: php72
-service: frontend
+runtime: php74
+service: default
 
 handlers:
   - url: /assets
