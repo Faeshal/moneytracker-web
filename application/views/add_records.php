@@ -165,7 +165,7 @@
                                                 </div>
                                                 <div class="form-group">
                                                     <label for="attachment" class=" form-control-label">Attachment</label>
-                                                    <input type="file" id="attachment" name="attachment" class="form-control-file">
+                                                    <input type="file" id="attachment" name="attachment" class="form-control-file" required>
                                                 </div>
                                                 <div class="card-footer">
                                                     <button type="submit" class="btn btn-primary btn-sm">
